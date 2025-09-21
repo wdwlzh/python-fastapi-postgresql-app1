@@ -9,7 +9,8 @@
   "extensions": [
     "ms-python.python",
     "ms-python.vscode-pylance",
-    "ms-toolsai.jupyter"
+    "ms-toolsai.jupyter",
+    "humao.rest-client"
   ],
   "forwardPorts": [8000, 5432, 5050],
   "postCreateCommand": "pip install -r requirements.txt",
